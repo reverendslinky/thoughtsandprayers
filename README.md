@@ -23,4 +23,3 @@ src
 test
 - main/java
 	- java test files for source
-
