@@ -7,6 +7,8 @@ It will expose a few REST APIs through HTTP endpoints.
 
 Repository Structure
 
+Any folder that has a JOURNAL.md file represents a system that was configured by hand. The JOURNAL file in that directory stores the major changes made to that system.
+
 build
 - src
 	- gradle build files
